@@ -1,0 +1,10 @@
+{
+	"appId": "com.ios15getusermedia.test",
+	"appName": "nuxt-capacitor-getusermedia",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"server": {
+		"hostname": "localhost:3000"
+	},
+	"npmClient": "npm"
+}
